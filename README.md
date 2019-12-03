@@ -20,3 +20,9 @@ Shui Lam CECS 326 @ CSULB
     o Critical Section Problem
     o Shared Mutual Exclusion
     o Semaphores
+    
+
+• Project 5
+
+    o Correcting Race Conditions from Project 3
+    o Using POSIX semaphores
